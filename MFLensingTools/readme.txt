@@ -1,4 +1,4 @@
 ## install package
 
-#pip install -e .
+#pip install -e . # install in editable mode
 pip install .
