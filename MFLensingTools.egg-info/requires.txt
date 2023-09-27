@@ -1,4 +1,0 @@
-healpy>=1.16.0
-matplotlib>=3.5.0
-mtneedlet
-numpy>=1.17.0
