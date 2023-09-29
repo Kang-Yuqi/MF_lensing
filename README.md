@@ -16,6 +16,7 @@ pip install .
 
 ## Usage
 Several examples are provided in the `example` folder.
+To use the function `Planck_data.py`, which is based on Planck data, you should first download the related Planck data. It can be obtained, for instance, from [Planck Legacy Archive](https://pla.esac.esa.int/#home).
 
 ## Developer
 * Yuqi Kang
